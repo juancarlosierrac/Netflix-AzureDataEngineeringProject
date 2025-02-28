@@ -1,4 +1,4 @@
-# Netflix Azure Data Engineering Project <img src="https://raw.githubusercontent.com/juancarlosierrac/Netflix-AzureDataEngineeringProject/main/Images/Netflix_Logo.png" width="40">
+# Netflix Azure Data Engineering Project <img src="https://raw.githubusercontent.com/juancarlosierrac/Netflix-AzureDataEngineeringProject/main/Images/Netflix_Logo.png" width="120px" height="50px" align="right">
 
 <hr>
 
