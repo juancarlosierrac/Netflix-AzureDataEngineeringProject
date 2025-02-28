@@ -1,4 +1,4 @@
-# Netflix Azure Data Engineering Project  
+# Netflix Azure Data Engineering Project <img src="https://raw.githubusercontent.com/juancarlosierrac/Netflix-AzureDataEngineeringProject/main/Images/Netflix_Logo.png" width="40">
 
 <hr>
 
@@ -9,8 +9,6 @@ This project is a **data engineering solution** built on **Microsoft Azure**, de
 
 ## 👨‍💻 Project Developer  
 <a href="https://github.com/juancarlosierrac" target="_blank">Juan Carlos Sierra Castro</a>  
-
-<img src="https://raw.githubusercontent.com/juancarlosierrac/Netflix-AzureDataEngineeringProject/main/Images/Netflix_Logo.png" alt="Netflix Logo" width="120" align="right">  
 
 ## 🎯 Objective  
 - Implement a **scalable and automated data pipeline** using **Azure Databricks, Azure Data Factory, and Delta Live Tables** for data transformation and incremental loading into a **star schema** within an **Azure Data Lake**, enabling **data analysis** in **Azure Synapse and Power BI**.
