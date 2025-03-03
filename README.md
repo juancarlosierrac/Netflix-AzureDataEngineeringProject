@@ -29,6 +29,15 @@ This project simulates a **real-world data engineering scenario**, enabling effi
 - **Star Schema Modeling** – Structured for high-performance querying and analytics.  
 - **Integration with Business Intelligence Tools** – Enables data-driven decision-making via Power BI and Synapse Analytics.  
 
+---
+
+### **Project Architecture Diagram**  
+<div align="center">
+    <img src="https://raw.githubusercontent.com/juancarlosierrac/Netflix-AzureDataEngineeringProject/main/Images/Netflix_Diagram.png" 
+         alt="Netflix Data Engineering Project Diagram" 
+         width="800px"/>
+</div>
+
 This project was developed as a **learning initiative**, inspired by **Ansh Lamba's educational content**, to gain hands-on experience with Azure’s data engineering capabilities.  
 
 ---
