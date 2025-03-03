@@ -1,43 +1,34 @@
 # Netflix Azure Data Engineering Project <img src="https://raw.githubusercontent.com/juancarlosierrac/Netflix-AzureDataEngineeringProject/main/Images/Netflix_Logo.png" width="120px" height="50px" align="right">
 
-<hr>
+---
 
-## 📌 Introduction  
-This project is a **data engineering solution** built on **Microsoft Azure**, designed to process, transform, and analyze streaming and batch data related to Netflix. It follows a **modern data pipeline architecture** using **Azure Databricks, Delta Live Tables, Azure Data Factory, and Azure Synapse Analytics** to enable **scalable, automated, and efficient data processing** for reporting and insights.  
+## Introduction  
+This project is a comprehensive data engineering solution built on **Microsoft Azure**, designed to process, transform, and analyze streaming and batch data related to Netflix. It follows a modern **data pipeline architecture**, leveraging **Azure Databricks, Delta Live Tables, Azure Data Factory, and Azure Synapse Analytics** to enable scalable, automated, and efficient data processing for business intelligence and analytics.  
 
 ---
 
-## 👨‍💻 Project Developer  
-<a href="https://github.com/juancarlosierrac" target="_blank">Juan Carlos Sierra Castro</a>  
+## Project Developer  
+[Juan Carlos Sierra Castro](https://github.com/juancarlosierrac)  
 
-## 🎯 Objective  
-- Implement a **scalable and automated data pipeline** using **Azure Databricks, Azure Data Factory, and Delta Live Tables** for data transformation and incremental loading into a **star schema** within an **Azure Data Lake**, enabling **data analysis** in **Azure Synapse and Power BI**.
-
----
-
-## 🚀 Tools Used in the Project  
-- **Azure Databricks** – Data ingestion, transformation, and processing  
-- **Azure Data Factory** – Orchestrating and automating data workflows  
-- **Delta Live Tables** – Managing incremental data loads and ensuring data quality  
-- **Azure Data Lake Gen2** – Scalable and secure data storage  
-- **Azure Synapse Analytics** – Data warehousing and querying large datasets  
-- **Power BI** – Data visualization and reporting  
-- **GitHub** – Version control and CI/CD integration  
-- **Azure Security (IAM, RBAC)** – Managing access and securing data  
+## Objective  
+Develop and implement a **scalable, automated data pipeline** that integrates **Azure Databricks, Azure Data Factory, and Delta Live Tables** to transform and incrementally load structured data into a **star schema** within **Azure Data Lake**, facilitating advanced analytics and reporting in **Azure Synapse and Power BI**.  
 
 ---
 
-## 📜 Project Description  
-This project **mimics a real-world data engineering use case** by processing **Netflix data** through a robust and scalable data pipeline.  
+## Technologies Used  
+Azure Databricks, Delta Live Tables, Azure Data Factory, Azure Data Lake Gen2, Azure Synapse Analytics, Power BI, GitHub, Azure Security (IAM, RBAC).  
 
-### **Key Features:**  
-✅ **Incremental data ingestion** using **Azure Data Factory & Auto Loader**  
-✅ **Data transformation** with **Databricks & Delta Live Tables**  
-✅ **Data storage** in **Azure Data Lake (Gen2)**  
-✅ **Star Schema modeling** for optimized query performance  
-✅ **Data warehousing** in **Azure Synapse**  
-✅ **Dashboard visualization** using **Power BI**  
+---
 
-This project was developed as an **educational exercise**, inspired by **Ansh Lamba's YouTube tutorial**, to gain hands-on experience with Azure's data engineering ecosystem. A huge thanks to **Ansh Lamba** for the valuable content! 🎥🙌  
+## Project Overview  
+This project simulates a **real-world data engineering scenario**, enabling efficient **data ingestion, transformation, storage, and visualization** within a cloud-based ecosystem. The solution is designed to support incremental data ingestion, optimize data transformation through **Delta Lake**, and provide structured data models for downstream analytics.  
 
---- 
+### Key Features  
+- **Automated and Scalable Data Processing** – Utilizes Azure Data Factory and Databricks Auto Loader.  
+- **Optimized Data Storage and Governance** – Implements Delta Live Tables and Azure Data Lake Gen2.  
+- **Star Schema Modeling** – Structured for high-performance querying and analytics.  
+- **Integration with Business Intelligence Tools** – Enables data-driven decision-making via Power BI and Synapse Analytics.  
+
+This project was developed as a **learning initiative**, inspired by **Ansh Lamba's educational content**, to gain hands-on experience with Azure’s data engineering capabilities.  
+
+---
