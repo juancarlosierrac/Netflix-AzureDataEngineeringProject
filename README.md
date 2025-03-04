@@ -32,5 +32,3 @@ Azure Databricks, Delta Live Tables, Azure Data Factory, Azure Data Lake Gen2, A
 ---
 
 This project was developed as a learning initiative, inspired by Ansh Lamba's educational content, to gain hands-on experience with Azure’s data engineering capabilities.  
-
----
